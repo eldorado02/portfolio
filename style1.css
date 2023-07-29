@@ -1,6 +1,7 @@
 .nom{
 }
-.menu{
+.container{
 }
 .navbar{
+  display:flex;
 }
