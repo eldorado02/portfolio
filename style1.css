@@ -6,9 +6,6 @@
 .container{
   color: red;
 }
-.navbar{
-  display:flex;
-}
 ul{
   display:flex;
   list-style: none;
